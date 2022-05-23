@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7166ed7-274f-4921-a488-7e197ef737e6": {
+      "ProjectGuid": "b7166ed7-274f-4921-a488-7e197ef737e6",
+      "DisplayName": "DLinkedList",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
