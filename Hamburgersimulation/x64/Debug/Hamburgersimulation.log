@@ -1,0 +1,5 @@
+﻿  CirculatQueue.c
+  HamburgerSim.c
+C:\Users\Glory\source\repos\Hamburgersimulation\HamburgerSim.c(25,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Hamburgersimulation.vcxproj -> C:\Users\Glory\source\repos\Hamburgersimulation\x64\Debug\Hamburgersimulation.exe
