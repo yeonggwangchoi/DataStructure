@@ -1,0 +1,12 @@
+﻿  BinaryTree.c
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(23,17): warning C4133: 'return': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(27,18): warning C4133: 'return': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(34,18): warning C4133: '=': 'BTreeNode *'과(와) '_bTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(41,19): warning C4133: '=': 'BTreeNode *'과(와) '_bTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(50,27): warning C4133: '함수': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(51,28): warning C4133: '함수': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(59,26): warning C4133: '함수': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(61,27): warning C4133: '함수': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(69,28): warning C4133: '함수': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Glory\source\repos\BinaryTreeTraversal\BinaryTree.c(70,29): warning C4133: '함수': '_bTreeNode *'과(와) 'BTreeNode *' 사이의 형식이 호환되지 않습니다.
+  BinaryTreeTraversal.vcxproj -> C:\Users\Glory\source\repos\BinaryTreeTraversal\x64\Debug\BinaryTreeTraversal.exe
